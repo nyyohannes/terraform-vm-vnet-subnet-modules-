@@ -30,20 +30,31 @@ Before running this project, ensure you have the following installed:
 
 2. **Download the Required Azure Provider Plugins**
     ```bash
+    ```bash
     terraform init
+     ```
+    
     ```
 
 3. **Confirm Configuration Doing What is Needed**
     ```bash
+    ```bash
     terraform plan
+    ```
+    
     ```
 
 4. **Deploy Infrastructure**
     ```bash
+    ```bash
     terraform apply
+    ```
+    
     ```
 
 5. **Destroy Infrastructure**
     ```bash
+    ```bash
     terraform destroy
+    ```
     ```
